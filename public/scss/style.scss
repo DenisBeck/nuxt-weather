@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,regular,700&display=swap');
+
+$fontFamily: "Roboto";
+$fontSize: 18px; 
+
+// Основные цвета
+$mainColor: #113621; 
+
+@import 'null';
+
+#__nuxt {
+    max-width: 100%;
+    min-height: 100%;
+    background: #cbedf7;
+}
+
